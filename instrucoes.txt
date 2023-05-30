@@ -1,0 +1,8 @@
+
+1° Passo: Alterar o arquivo para extensão "csv(separado por vírgulas)".
+
+2° Passo: Substituir o nome do arquivo em 'recebe_dados_tabela(linha 3)'.
+
+3° Passo: Indicar o endereço correto do arquivo em 'recebe_dados_tabela.php (linha 4)' na variável "$caminho".
+
+4° Passo: Alterar o nome do arquivo em 'import.php (linha 5 e linha 10). 
